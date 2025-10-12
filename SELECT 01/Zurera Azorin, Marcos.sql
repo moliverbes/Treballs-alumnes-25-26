@@ -38,7 +38,8 @@ SELECT * From film
 Where rating like 'PG';
 
 -- 11 Mostra el nom de totes les categories ordenades alfabèticament.
-SELECT * FROM; 
+SELECT * FROM film
+order by title asc; 
 
 -- 12 Recupera tots els clients que tenen una adreça de correu electrònic amb 'gmail.com'
 SELECT * FROM customer
@@ -53,13 +54,18 @@ SELECT title, release_year from film
 Where release_year between 2005 and 2010; 
 
 -- 15 Mostra el nom i el preu de lloguer de totes les pel·lícules amb un preu de lloguer superior a 2$.
-Select actor_id, rental 
+Select title, rental_rate FROM film
+Where rental_rate > 2;
 -- 16 Obté el títol, la durada i la classificació de les pel·lícules amb una durada superior a 2 hores i classificació 'R'.
-
+Select title, length, rating FROM film
+Where length > 120 and rating = 'R';
 -- 17 Mostra els títols de les pel·lícules amb el terme 'action' o 'comedy' en la descripció.
-
+Select title FROM film
+Where title like '% action %' or title like '% comedy %';
 -- 18 Recupera els actors que tenen una 'a' en el seu nom i una 'e' en el seu cognom.
-
+Select actor_id, first_name, last_name From actor
+where first_name like '%a%' and last_name like '%e%';
 -- 19 Mostra els títols de les pel·lícules llançades després del 2000 amb una classificació 'PG' o 'G'.
-
+Select title, release_year, rating FROM film
+Where release_year > 2000 and rating = 'PG' or Rating = 'G';
 
