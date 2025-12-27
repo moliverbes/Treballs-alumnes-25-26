@@ -1,0 +1,167 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Biblioteca_base" id="0">
+    <mxGraphModel dx="2381" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LLIBRE" value="LLIBRE" style="shape=rectangle" parent="1" vertex="1">
+          <mxGeometry x="-400" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AUTOR" value="AUTOR" style="shape=rectangle" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USUARI" target="FA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USUARI" value="USUARI" style="shape=rectangle" parent="1" vertex="1">
+          <mxGeometry x="-10" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRESTEC" value="PRESTEC" style="shape=rectangle" parent="1" vertex="1">
+          <mxGeometry x="360" y="470" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLIBRE_CodiLlibre" value="CodiLlibre" style="shape=ellipse;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="-700" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1000" value="" style="exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LLIBRE_CodiLlibre" target="LLIBRE" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LLIBRE_Títol" value="Títol" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="-700" y="400" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1001" value="" style="exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LLIBRE_Títol" target="LLIBRE" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-540" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLIBRE_AnyPublicació" value="AnyPublicació" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="-700" y="450" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1002" value="" style="exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LLIBRE_AnyPublicació" target="LLIBRE" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LLIBRE_Classificació" value="Classificació" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="-700" y="500" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1003" value="" style="exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LLIBRE_Classificació" target="LLIBRE" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LLIBRE_NombreExemplars" value="NombreExemplars" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="-700" y="550" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1004" value="" style="exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LLIBRE_NombreExemplars" target="LLIBRE" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUTOR_CodiAutor" value="CodiAutor" style="shape=ellipse;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="400" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1005" value="" style="exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AUTOR_CodiAutor" target="AUTOR" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUTOR_NomAutor" value="NomAutor" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="400" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1006" value="" parent="1" source="AUTOR_NomAutor" target="AUTOR" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USUARI_DNI" value="DNI" style="shape=ellipse;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="-140" y="680" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1007" value="" style="entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="USUARI_DNI" target="USUARI" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="636.6700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USUARI_NomComplet" value="NomComplet" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="180" y="680" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1008" value="" style="exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="USUARI_NomComplet" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="600.0033333333333" as="sourcePoint" />
+            <mxPoint x="130" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USUARI_Telefon" value="Telefon" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="110" y="730" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1009" value="" style="entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="USUARI_Telefon" target="USUARI" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="619.1144444444444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USUARI_DataAlta" value="DataAlta" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="-50" y="730" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1010" value="" style="exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="USUARI_DataAlta" target="USUARI" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="634.6700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRESTEC_DataInici" value="DataInici" style="shape=ellipse;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="560" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1011" value="" style="exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PRESTEC_DataInici" target="PRESTEC" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRESTEC_DataPrevistaDevolució" value="DataPrevistaDevolució" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="570" y="490" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1012" value="" style="exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PRESTEC_DataPrevistaDevolució" target="PRESTEC" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRESTEC_DataRetorn" value="DataRetorn" style="shape=ellipse" parent="1" vertex="1">
+          <mxGeometry x="570" y="540" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1013" value="" style="exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PRESTEC_DataRetorn" target="PRESTEC" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESCRIU" value="ESCRIU" style="shape=rhombus" parent="1" vertex="1">
+          <mxGeometry x="-180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESCRIU_1" value="" style="entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LLIBRE" target="ESCRIU" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESCRIU_2" value="" style="entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ESCRIU" target="AUTOR" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INCLOU" value="INCLOU" style="shape=rhombus" parent="1" vertex="1">
+          <mxGeometry x="-60" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INCLOU_1" value="" style="entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LLIBRE" target="INCLOU" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INCLOU_2" value="" style="exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="INCLOU" target="PRESTEC" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40.999411764705854" y="360" as="sourcePoint" />
+            <mxPoint x="-60" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FA" target="PRESTEC">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FA" value="FA" style="shape=rhombus" parent="1" vertex="1">
+          <mxGeometry x="195" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-3" value="1..N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-4" value="0..N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-5" value="0..N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="420" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-6" value="1..1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-7" value="1..1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNSG5BCKo18JQ5dVqXww-8" value="0..N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
