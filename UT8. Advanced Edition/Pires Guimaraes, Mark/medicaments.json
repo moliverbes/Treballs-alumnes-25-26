@@ -1,0 +1,6 @@
+[
+  { "nom": "Omeprazol", "dosi": "20mg", "fabricant": "Teva", "stock": 120 },
+  { "nom": "Loratadina", "dosi": "10mg", "fabricant": "Cinfa", "stock": 80 },
+  { "nom": "Metformina", "dosi": "850mg", "fabricant": "Sandoz", "stock": 60 },
+  { "nom": "Atorvastatina", "dosi": "20mg", "fabricant": "Kern Pharma", "stock": 45 }
+]

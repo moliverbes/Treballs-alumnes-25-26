@@ -1,0 +1,6 @@
+id_pacient|nom|cognoms|data_naixement|telefon|email|adreca
+NULL|Dani|Pou Canovas|2000-03-04|654785632|dani.pou@gmail.com|Passeig de Ronda 32,LLeida
+NULL|Martí|Serra Vidal|1995-07-12|612345678|marti.serra@gmail.com|Carrer Major 15,Girona
+NULL|Laura|Rius Ferrer|1988-11-23|698741236|laura.rius@hotmail.com|Avinguda Catalunya 8,Tarragona
+NULL|Nil|Casas Pujol|2003-01-30|655889977|nil.casas@yahoo.com|Plaça Espanya 21,Barcelona
+NULL|Clara|Bosch Soler|1997-09-18|677123456|clara.bosch@gmail.com|Carrer del Sol 44,Manresa

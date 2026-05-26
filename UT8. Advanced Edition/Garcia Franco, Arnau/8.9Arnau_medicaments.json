@@ -1,0 +1,7 @@
+[
+  {"id_medicament": 4, "nom": "Ibuprofeno", "dosi": "100mg", "fabricant": "SL", "stock": 2},
+  {"id_medicament": 5, "nom": "Paracetamol", "dosi": "100mg", "fabricant": "fmSL", "stock": 3},
+  {"id_medicament": 6, "nom": "Dalsy", "dosi": "100mg", "fabricant": "SL", "stock": 1},
+  {"id_medicament": 7, "nom": "Alprazolam", "dosi": "101mg", "fabricant": "SL", "stock": 2},
+  {"id_medicament": 8, "nom": "Mucosan", "dosi": "4mg", "fabricant": "SL", "stock": 2}
+]

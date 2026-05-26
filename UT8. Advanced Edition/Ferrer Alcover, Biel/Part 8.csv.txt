@@ -1,0 +1,6 @@
+id_pacient,nom,cognoms,data_naixement,telefon,email,adreca
+,Luke,Skywalker,1977-05-25,600111222,luke@jedi.com,Tatooine
+,Leia,Organa,1977-05-25,600333444,leia@alderean.com,Alderaan
+,Han,Solo,1970-11-15,600555666,han@millennium.com,Corellia
+,Angela,Ziegler,1989-05-14,600777888,mercy@overwatch.com,Suissa
+,Genji,Shimada,1991-10-28,600999000,genji@shimada.com,Japó

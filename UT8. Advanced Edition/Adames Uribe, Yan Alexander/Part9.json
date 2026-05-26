@@ -1,0 +1,6 @@
+[
+{"id_medicament":6,"nom":"Paracetamol","dosi":"500 mg","fabricant":"Bayer","stock":50},
+{"id_medicament":7,"nom":"Ibuprofèn","dosi":"600 mg","fabricant":"Pfizer","stock":30},
+{"id_medicament":8,"nom":"Amoxicil·lina","dosi":"750 mg","fabricant":"Normon","stock":20},
+{"id_medicament":9,"nom":"Omeprazol","dosi":"20 mg","fabricant":"Cinfa","stock":40}
+]

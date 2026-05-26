@@ -1,0 +1,6 @@
+[
+{"nom": "Metformina","dosi": "850mg","fabricant": "DiaMed","stock": 150},
+{"nom": "Omeprazole","dosi": "20mg","fabricant": "LabPharma","stock": 200},
+{"nom": "Lorazepam","dosi": "1mg","fabricant": "PsyMed","stock": 80},
+{"nom": "Diazepam","dosi": "5mg","fabricant": "AnxioLab","stock": 60}
+]

@@ -1,0 +1,6 @@
+[
+{"id_medicament":3, "nom":"Aperital", "dosi":"20ml", "fabricant":"Cancun", "stock":300},
+{"id_medicament":4, "nom":"Dolvex", "dosi":"500mg", "fabricant":"PharmaCat", "stock":150},
+{"id_medicament":5, "nom":"Respinol", "dosi":"10ml", "fabricant":"Medisalut", "stock":420},
+{"id_medicament":6, "nom":"Cardioplus", "dosi":"75mg", "fabricant":"BioMedic", "stock":210}
+]

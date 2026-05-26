@@ -1,0 +1,32 @@
+[
+  {
+    "nom": "Adrenalina de Supervivent",
+    "dosi": "1mg",
+    "fabricant": "Autumnwood Pharma",
+    "stock": 200
+  },
+  {
+    "nom": "Kit de Primers Auxilis",
+    "dosi": "Estàndard",
+    "fabricant": "Coldwind Med",
+    "stock": 150
+  },
+  {
+    "nom": "Tònic de l'Entitat",
+    "dosi": "50mg",
+    "fabricant": "The Void Labs",
+    "stock": 80
+  },
+  {
+    "nom": "Ungüent de Caçador",
+    "dosi": "10%",
+    "fabricant": "MacMillan Herbal",
+    "stock": 300
+  },
+  {
+    "nom": "Serum Deteriodad",
+    "dosi": "200mg",
+    "fabricant": "Blight Solutions",
+    "stock": 120
+  }
+]

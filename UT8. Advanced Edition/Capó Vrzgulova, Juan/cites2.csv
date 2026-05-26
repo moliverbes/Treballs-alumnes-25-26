@@ -1,0 +1,6 @@
+id_cita,id_pacient,id_metge,data_cita,hora_cita,estat
+NULL,1,10,2026-06-01,09:30:00,Pendent
+NULL,2,11,2026-06-01,11:00:00,Pendent
+NULL,3,10,2026-06-02,10:15:00,Completada
+NULL,4,12,2026-06-02,16:45:00,Cancel·lada
+NULL,5,11,2026-06-03,12:00:00,Pendent

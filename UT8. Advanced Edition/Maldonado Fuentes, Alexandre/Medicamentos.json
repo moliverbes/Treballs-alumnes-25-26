@@ -1,0 +1,6 @@
+[
+  {"id_medicament": 4, "nom": "Adiro", "dosi": "20mg", "fabricant": "AstraZeneca", "stock": 2},
+  {"id_medicament": 5, "nom": "Apiretal", "dosi": "70mg", "fabricant": "Bayer", "stock": 8},
+  {"id_medicament": 6, "nom": "Augmentine", "dosi": "170mg", "fabricant": "Ipsen", "stock": 12},
+  {"id_medicament": 7, "nom": "Bisoprolol", "dosi": "90mg", "fabricant": "Merck", "stock": 230}
+]

@@ -1,0 +1,6 @@
+[
+  {"nom": "Omeprazol", "dosi": "20mg", "fabricant": "Cinfa", "stock": 45},
+  {"nom": "Metformina", "dosi": "850mg", "fabricant": "Sandoz", "stock": 60},
+  {"nom": "Atorvastatina", "dosi": "20mg", "fabricant": "Normon", "stock": 25},
+  { "nom": "Aspirina", "dosi": "100mg", "fabricant": "Bayer", "stock": 80}
+]

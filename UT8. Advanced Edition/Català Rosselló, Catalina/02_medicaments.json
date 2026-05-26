@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "Aspirina",
+    "dosi": "100 mg",
+    "fabricant": "Bayer",
+    "stock": 95
+  },
+  {
+    "nom": "Metformina",
+    "dosi": "850 mg",
+    "fabricant": "Teva Pharmaceutical Industries",
+    "stock": 70
+  },
+  {
+    "nom": "Losartán",
+    "dosi": "50 mg",
+    "fabricant": "Cinfa",
+    "stock": 56
+  },
+  {
+    "nom": "Atorvastatina",
+    "dosi": "20 mg",
+    "fabricant": "Pfizer",
+    "stock": 88
+  }
+]

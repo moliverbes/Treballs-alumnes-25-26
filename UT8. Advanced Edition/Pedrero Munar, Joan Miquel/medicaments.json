@@ -1,0 +1,6 @@
+[
+  {"nom": "Omeprazole", "dosi": "20mg", "fabricant": "GastroPharma", "stock": 200},
+  {"nom": "Loratadina", "dosi": "10mg", "fabricant": "AlergiaCare", "stock": 80},
+  {"nom": "Aspirina", "dosi": "500mg", "fabricant": "Bayer", "stock": 300},
+  {"nom": "Diazepam", "dosi": "5mg", "fabricant": "NeuroMeds", "stock": 40}
+]

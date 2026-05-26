@@ -1,0 +1,6 @@
+id_pacient,id_metge,data_cita,hora_cita,estat
+1,1,2024-12-20,09:00:00,Pendent
+2,2,2024-12-20,10:30:00,Pendent
+3,3,2024-12-21,11:15:00,Completada
+4,1,2024-12-22,12:00:00,Cancel·lada
+5,2,2024-12-23,09:45:00,Pendent

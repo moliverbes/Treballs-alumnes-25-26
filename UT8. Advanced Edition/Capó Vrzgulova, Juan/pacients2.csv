@@ -1,0 +1,6 @@
+id_pacient,nom,cognoms,data_naxement,telefon,email,adreca
+NULL,Jordi,Garcia Pérez,1985-04-12,612345678,jordi.garcia@email.com, Carrer de Mallorca
+NULL,Maria,Martínez Soler,1992-11-23,698765432,maria.martinez@email.com,Avinguda Diagonal
+NULL,Antoni,Vila Sànchez,1978-07-05,654123987,antoni.vila@email.com,Carrer Major
+NULL,Laura,Rodríguez Gómez,2000-01-15,600112233,laura.rodriguez@email.com,Passeig de Gràcia
+NULL,Francesc,Ferrer Costa,1965-12-30,677889900,francesc.ferrer@email.com,Rambla Catalunya

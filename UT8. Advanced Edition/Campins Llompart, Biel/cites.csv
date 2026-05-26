@@ -1,0 +1,6 @@
+id_cita|id_pacient|id_metge|data_cita|hora_cita|estat
+NULL|7|3|2026-05-20|19:25:10|Completada
+NULL|8|2|2026-05-21|09:15:00|Pendent
+NULL|9|1|2026-05-22|11:40:25|Cancel·lada
+NULL|10|1|2026-05-23|16:05:45|Completada
+NULL|11|2|2026-05-24|13:30:10|Pendent

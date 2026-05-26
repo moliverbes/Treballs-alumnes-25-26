@@ -1,0 +1,6 @@
+id_pacient,nom,cognoms,data_naixament,telefon,email,adreça
+7,Sofia,Ramírez,1988-06-15,611223344,sofia.ramirez@email.com,Balmes23
+8,Pau,Garcia,1995-03-22,622334455,pau.torres@email.com,Diagonal456
+9,Clàudia,Vidal,1982-11-30,633445566,claudia.navarro@email.com,7
+10,Àlex,Ferrer,1998-07-18,644556677, alex@gmai.com,Carrer89
+11,Irene,Ruiz,1991-09-25,655667788,irene.castro@email.com,Sants234

@@ -1,0 +1,6 @@
+id_pacient,nom, cognoms, data_naixament, telefon, email, adreca
+null,Jordi,Sanz Ferrer,1992-03-15,671234567,jordisf@mail,Carrer Provença 234
+null,Carme,Rovira Puig,1987-07-22,672345678,carmrp@mail,Avinguda Madrid 78
+null,David,Munté Cases,2001-11-05,673456789,davmc@mail,Rambla Catalunya 12
+null,Nuria,Altarriba Prat,1979-09-18,674567890,nuriap@mail,Carrer Sants 45
+null,Albert,Ribas Morell,1998-12-30,675678901,albrim@mail,Plaça Espanya 3

@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "Ibuprofèn",
+        "dosi": "600mg",
+        "fabricant": "Laboratoris Kern",
+        "stock": 120
+    },
+    {
+        "nom": "Paracetamol",
+        "dosi": "1g",
+        "fabricant": "Cinfa",
+        "stock": 200
+    },
+    {
+        "nom": "Amoxicil·lina",
+        "dosi": "500mg",
+        "fabricant": "Sandoz",
+        "stock": 85
+    },
+    {
+        "nom": "Omeprazol",
+        "dosi": "20mg",
+        "fabricant": "Bayer",
+        "stock": 150
+    }
+]

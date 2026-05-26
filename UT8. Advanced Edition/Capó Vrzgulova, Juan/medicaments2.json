@@ -1,0 +1,30 @@
+[
+    {
+        "id_medicament": null,
+        "nom": "CocaCola",
+        "dosi": "1g",
+        "fabricant": "Kern Pharma",
+        "stock": 150
+    },
+    {
+        "id_medicament": null,
+        "nom": "Ibuprofèn",
+        "dosi": "600mg",
+        "fabricant": "Cinfa",
+        "stock": 200
+    },
+    {
+        "id_medicament": null,
+        "nom": "Amoxicil·lina",
+        "dosi": "500mg",
+        "fabricant": "Normon",
+        "stock": 85
+    },
+    {
+        "id_medicament": null,
+        "nom": "Omeprazol",
+        "dosi": "20mg",
+        "fabricant": "Bayer",
+        "stock": 310
+    }
+]
